@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dinámicamente generated on mayo 18, 2023 at 7:20 pm by All in One SEO v4.3.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dinámicamente generated on mayo 23, 2023 at 2:47 pm by All in One SEO v4.3.7 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://villaolimpica.fastandstatic.com/default.xsl?sitemap=portfolio"?>
+<?xml-stylesheet type="text/xsl" href="./default.xsl?sitemap=portfolio"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/building-the-google-photos-web-ui/]]></loc>
+		<loc><![CDATA[./portfolio/building-the-google-photos-web-ui/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:53:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/scott-webb-87887.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/scott-webb-87887.png]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://demo.phlox.pro/agency-web/wp-content/uploads/sites/129/2019/10/pineapple-supply-co-96410.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/contemporary-art/]]></loc>
+		<loc><![CDATA[./portfolio/contemporary-art/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:48:31+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/Rounded-Rectangle-1-copy-25.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/Rounded-Rectangle-1-copy-25.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://demo.phlox.pro/agency-web/wp-content/uploads/sites/129/2019/10/scott-webb-87887.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/why-you-should-use-ae-templates/]]></loc>
+		<loc><![CDATA[./portfolio/why-you-should-use-ae-templates/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:47:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/Rounded-Rectangle-1-copy-39.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/Rounded-Rectangle-1-copy-39.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://demo.phlox.pro/agency-web/wp-content/uploads/sites/129/2019/10/agency-workers-at-relax-zone-P5BJ6QP.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/furniture-design/]]></loc>
+		<loc><![CDATA[./portfolio/furniture-design/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:46:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/Rounded-Rectangle-1-copy-23.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/Rounded-Rectangle-1-copy-23.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://demo.phlox.pro/agency-web/wp-content/uploads/sites/129/2019/10/office-building-P5TPTWA.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/photos-web-ui/]]></loc>
+		<loc><![CDATA[./portfolio/photos-web-ui/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:44:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/Rounded-Rectangle-1-copy.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/Rounded-Rectangle-1-copy.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://demo.phlox.pro/agency-web/wp-content/uploads/sites/129/2019/10/ben-o-sullivan-382817.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/furniture-design-2/]]></loc>
+		<loc><![CDATA[./portfolio/furniture-design-2/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:40:59+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/ben-o-sullivan-382817.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/ben-o-sullivan-382817.png]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://demo.phlox.pro/agency-web/wp-content/uploads/sites/129/2019/10/pineapple-supply-co-96410.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/agency-web/]]></loc>
+		<loc><![CDATA[./portfolio/agency-web/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-09T11:24:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/efe-kurnaz-RnCPiXixooY-unsplash.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/efe-kurnaz-RnCPiXixooY-unsplash.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/agency/]]></loc>
+		<loc><![CDATA[./portfolio/agency/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-09T11:22:56+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/ca806e83621989.5d41eea0eb037@2x.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/ca806e83621989.5d41eea0eb037@2x.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio/agency-web-2/]]></loc>
+		<loc><![CDATA[./portfolio/agency-web-2/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-09T10:52:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/Rounded-Rectangle-2-copy-7.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2019/10/Rounded-Rectangle-2-copy-7.png]]></image:loc>
 		</image:image>
 	</url>
 </urlset>

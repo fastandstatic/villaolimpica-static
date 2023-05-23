@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Furniture Design &#038; Contemporary Art	</title>
-	<atom:link href="https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=furniture-design-contemporary-art-4</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=furniture-design-contemporary-art-4</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Oct 2019 13:31:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.4</generator>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
 </channel>
 </rss>

@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comentarios en: Why You Should Use AE Templates?	</title>
-	<atom:link href="https://villaolimpica.fastandstatic.com/why-you-should-use-ae-templates/feed/" rel="self" type="application/rss+xml" />
-	<link>https://villaolimpica.fastandstatic.com/why-you-should-use-ae-templates/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-ae-templates</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-ae-templates</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Oct 2019 11:16:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.4</generator>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
 	<item>
 		<title>
 		Por: Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/why-you-should-use-ae-templates/#comment-6</link>
+		<link>./../index.html#comment-6</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:28 +0000</pubDate>

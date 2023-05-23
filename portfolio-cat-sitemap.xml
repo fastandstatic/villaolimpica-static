@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dinámicamente generated on mayo 18, 2023 at 7:20 pm by All in One SEO v4.3.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dinámicamente generated on mayo 23, 2023 at 2:47 pm by All in One SEO v4.3.7 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://villaolimpica.fastandstatic.com/default.xsl?sitemap=portfolio-cat"?>
+<?xml-stylesheet type="text/xsl" href="./default.xsl?sitemap=portfolio-cat"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio-cat/uncategorized/]]></loc>
+		<loc><![CDATA[./portfolio-cat/uncategorized/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-09T11:24:57+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio-cat/new/]]></loc>
+		<loc><![CDATA[./portfolio-cat/new/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:53:12+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio-cat/2017/]]></loc>
+		<loc><![CDATA[./portfolio-cat/2017/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:53:12+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://villaolimpica.fastandstatic.com/portfolio-cat/2018/]]></loc>
+		<loc><![CDATA[./portfolio-cat/2018/]]>/index.html</loc>
 		<lastmod><![CDATA[2019-10-16T08:40:59+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>

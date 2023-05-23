@@ -168,7 +168,7 @@
 		<div class="breadcrumb">
 	<svg class="back" width="6" height="9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.274 7.56L2.22 4.5l3.054-3.06-.94-.94-4 4 4 4 .94-.94z" fill="#141B38"/></svg>
 
-	<a href="https://villaolimpica.fastandstatic.com/"><span>Inicio</span></a>
+	<a href="./index.html"><span>Inicio</span></a>
 
 			<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
@@ -215,7 +215,7 @@
 		<div class="breadcrumb">
 	<svg class="back" width="6" height="9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.274 7.56L2.22 4.5l3.054-3.06-.94-.94-4 4 4 4 .94-.94z" fill="#141B38"/></svg>
 
-	<a href="https://villaolimpica.fastandstatic.com/"><span>Inicio</span></a>
+	<a href="./index.html"><span>Inicio</span></a>
 
 			<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
@@ -256,11 +256,11 @@
 		<div class="breadcrumb">
 	<svg class="back" width="6" height="9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.274 7.56L2.22 4.5l3.054-3.06-.94-.94-4 4 4 4 .94-.94z" fill="#141B38"/></svg>
 
-	<a href="https://villaolimpica.fastandstatic.com/"><span>Inicio</span></a>
+	<a href="./index.html"><span>Inicio</span></a>
 
 			<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
-					<a href="https://villaolimpica.fastandstatic.com/sitemap.xml"><span>Índice del mapa del sitio</span></a>
+					<a href="./sitemap.xml"><span>Índice del mapa del sitio</span></a>
 						<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
 					<span>Mapa del sitio</span>
@@ -376,7 +376,7 @@
 						</xsl:choose>
 					</xsl:otherwise>
 				</xsl:choose>
-				y se generó el mayo 18, 2023 a las 7:21 pm			</p>
+				y se generó el mayo 23, 2023 a las 2:48 pm			</p>
 		</xsl:if>
 	</div>
 </xsl:template>
@@ -410,7 +410,7 @@
 	<div class="breadcrumb">
 	<svg class="back" width="6" height="9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.274 7.56L2.22 4.5l3.054-3.06-.94-.94-4 4 4 4 .94-.94z" fill="#141B38"/></svg>
 
-	<a href="https://villaolimpica.fastandstatic.com/"><span>Inicio</span></a>
+	<a href="./index.html"><span>Inicio</span></a>
 
 			<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
@@ -420,7 +420,7 @@
 			¡Vaya!			<br />
 			No hay ninguna entrada aquí		</h2>
 		<div class="empty-sitemap__buttons">
-			<a href="https://villaolimpica.fastandstatic.com/" class="button">Volver a la página de inicio</a>
+			<a href="./index.html" class="button">Volver a la página de inicio</a>
 					</div>
 
 			</div>

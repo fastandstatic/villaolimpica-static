@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DESIGN - Villa Olimpica</title>
-	<atom:link href="https://villaolimpica.fastandstatic.com/category/design/feed/" rel="self" type="application/rss+xml" />
-	<link>https://villaolimpica.fastandstatic.com/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Oct 2019 13:31:28 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.4</generator>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
 
 <image>
-	<url>https://villaolimpica.fastandstatic.com/wp-content/uploads/2019/10/favicon-2021-10.png</url>
+	<url>./../../../wp-content/uploads/2019/10/favicon-2021-10.png</url>
 	<title>DESIGN - Villa Olimpica</title>
-	<link>https://villaolimpica.fastandstatic.com/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Furniture Design &#038; Contemporary Art</title>
-		<link>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=furniture-design-contemporary-art-4</link>
-					<comments>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/#respond</comments>
+		<link>./../../../furniture-design-contemporary-art-4/index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=furniture-design-contemporary-art-4</link>
+					<comments>./../../../furniture-design-contemporary-art-4/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[villaolimpica]]></dc:creator>
 		<pubDate>Wed, 09 Oct 2019 13:31:28 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<guid isPermaLink="false">https://nuevavilla.inmobiliariavanza.com/index.php/2019/10/09/furniture-design-contemporary-art-4/</guid>
 
 					<description><![CDATA[<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue. Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh [&#8230;]</p>
-<p>The post <a href="https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/">Furniture Design & Contemporary Art</a> first appeared on <a href="https://villaolimpica.fastandstatic.com/">Villa Olimpica</a>.</p>]]></description>
+<p>The post <a href="./../../../furniture-design-contemporary-art-4/index.html">Furniture Design & Contemporary Art</a> first appeared on <a href="./../../../index.html">Villa Olimpica</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="120" class="elementor elementor-120">
 						<div class="elementor-inner">
 				<div class="elementor-section-wrap">
@@ -82,9 +82,9 @@
 		</section>
 									</div>
 			</div>
-					</div><p>The post <a href="https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/">Furniture Design & Contemporary Art</a> first appeared on <a href="https://villaolimpica.fastandstatic.com/">Villa Olimpica</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="./../../../furniture-design-contemporary-art-4/index.html">Furniture Design & Contemporary Art</a> first appeared on <a href="./../../../index.html">Villa Olimpica</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-4/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../furniture-design-contemporary-art-4/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

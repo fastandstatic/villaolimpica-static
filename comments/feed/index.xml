@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comentarios para Villa Olimpica	</title>
-	<atom:link href="https://villaolimpica.fastandstatic.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://villaolimpica.fastandstatic.com/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Oct 2019 11:16:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.4</generator>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
 	<item>
 		<title>
 		Comentario en Why You Should Use AE Templates? por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/why-you-should-use-ae-templates-2/#comment-8</link>
+		<link>./../../why-you-should-use-ae-templates-2/index.html#comment-8</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:35 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Comentario en Furniture Design &#038; Contemporary Art por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-3/#comment-7</link>
+		<link>./../../furniture-design-contemporary-art-3/index.html#comment-7</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:32 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Comentario en Why You Should Use AE Templates? por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/why-you-should-use-ae-templates/#comment-6</link>
+		<link>./../../why-you-should-use-ae-templates/index.html#comment-6</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:28 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		Comentario en Furniture Design &#038; Contemporary Art por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art-2/#comment-5</link>
+		<link>./../../furniture-design-contemporary-art-2/index.html#comment-5</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:20 +0000</pubDate>
@@ -76,7 +76,7 @@
 		<item>
 		<title>
 		Comentario en Furniture Design &#038; Contemporary Art por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/furniture-design-contemporary-art/#comment-4</link>
+		<link>./../../furniture-design-contemporary-art/index.html#comment-4</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:11 +0000</pubDate>
@@ -90,16 +90,16 @@
 		<item>
 		<title>
 		Comentario en Building the Google Photos Web UI por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/building-the-google-photos-web-ui/#comment-3</link>
+		<link>./../../building-the-google-photos-web-ui/index.html#comment-3</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:00:54 +0000</pubDate>
 		<guid isPermaLink="false">https://nuevavilla.inmobiliariavanza.com/index.php/2019/10/15/building-the-google-photos-web-ui/#comment-3</guid>
 
-					<description><![CDATA[En respuesta a &lt;a href=&quot;https://villaolimpica.fastandstatic.com/building-the-google-photos-web-ui/#comment-2&quot;&gt;Paul&lt;/a&gt;.
+					<description><![CDATA[En respuesta a &lt;a href=&quot;./../../building-the-google-photos-web-ui/index.html#comment-2&quot;&gt;Paul&lt;/a&gt;.
 
 I wonder if there’s any reason why the same can’t be said for simply staying up later? If it’s about time to do nothing, or to exercise, or to be bored, you would assume the same can be achieved at 1am when you haven’t slept yet as it can at 5am when you’ve just gotten up.]]></description>
-			<content:encoded><![CDATA[<p>En respuesta a <a href="https://villaolimpica.fastandstatic.com/building-the-google-photos-web-ui/#comment-2">Paul</a>.</p>
+			<content:encoded><![CDATA[<p>En respuesta a <a href="./../../building-the-google-photos-web-ui/index.html#comment-2">Paul</a>.</p>
 <p>I wonder if there’s any reason why the same can’t be said for simply staying up later? If it’s about time to do nothing, or to exercise, or to be bored, you would assume the same can be achieved at 1am when you haven’t slept yet as it can at 5am when you’ve just gotten up.</p>
 ]]></content:encoded>
 		
@@ -107,7 +107,7 @@ I wonder if there’s any reason why the same can’t be said for simply staying
 		<item>
 		<title>
 		Comentario en Building the Google Photos Web UI por Paul		</title>
-		<link>https://villaolimpica.fastandstatic.com/building-the-google-photos-web-ui/#comment-2</link>
+		<link>./../../building-the-google-photos-web-ui/index.html#comment-2</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 09:20:08 +0000</pubDate>

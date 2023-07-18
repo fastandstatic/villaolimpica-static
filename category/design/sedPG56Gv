@@ -8,18 +8,19 @@
         <meta name="viewport" content="initial-scale=1,user-scalable=no,width=device-width">
 
 <!-- outputs by wp_head -->
-<title>octubre, 2019 - Villa Olimpica</title>
+<title>DESIGN - Villa Olimpica</title>
 
 		<!-- All in One SEO 4.4.0.1 - aioseo.com -->
 		<meta name="robots" content="max-image-preview:large">
 		<link rel="canonical" href="./ ">
 		<meta name="generator" content="All in One SEO (AIOSEO) 4.4.0.1">
-		<script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":".\/\/2019\/10\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":".\/\/#listItem","position":1,"item":{"@type":"WebPage","@id":".\/\/","name":"Inicio","description":"Proyectos Requisitos Síguenos: Te acompañamos tener casa propia en el proceso de Cumple tu sueño y Separa tu casa con sólo $1 Millón Síguenos: Vive momentos inolvidables junto a tu familia Síguenos: Proyectos Tener casa propia es posible Cumple tu sueño PORQUE TENER CASA PROPIA NO ES EL FIN, SINO EL PRINCIPIO Aplica subsidio del","url":".\/\/"},"nextItem":".\/\/2019\/#listItem"},{"@type":"ListItem","@id":".\/\/2019\/#listItem","position":2,"item":{"@type":"WebPage","@id":".\/\/2019\/","name":"2019","url":".\/\/2019\/"},"nextItem":".\/\/2019\/10\/#listItem","previousItem":".\/\/#listItem"},{"@type":"ListItem","@id":".\/\/2019\/10\/#listItem","position":3,"item":{"@type":"WebPage","@id":".\/\/2019\/10\/","name":"octubre, 2019","url":".\/\/2019\/10\/"},"previousItem":".\/\/2019\/#listItem"}]},{"@type":"CollectionPage","@id":".\/\/2019\/10\/#collectionpage","url":".\/\/2019\/10\/","name":"octubre, 2019 - Villa Olimpica","inLanguage":"es-CO","isPartOf":{"@id":".\/\/#website"},"breadcrumb":{"@id":".\/\/2019\/10\/#breadcrumblist"}},{"@type":"Organization","@id":".\/\/#organization","name":"Villa Olimpica","url":".\/\/","logo":{"@type":"ImageObject","url":".\/\/wp-content\/uploads\/2019\/10\/logo_Villa-Olimpica-02.png","@id":".\/\/#organizationLogo","width":942,"height":417},"image":{"@id":".\/\/#organizationLogo"}},{"@type":"WebSite","@id":".\/\/#website","url":".\/\/","name":"Villa Olimpica","inLanguage":"es-CO","publisher":{"@id":".\/\/#organization"}}]}</script>
+		<script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":".\/\/category\/design\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":".\/\/#listItem","position":1,"item":{"@type":"WebPage","@id":".\/\/","name":"Inicio","description":"Proyectos Requisitos Síguenos: Te acompañamos tener casa propia en el proceso de Cumple tu sueño y Separa tu casa con sólo $1 Millón Síguenos: Vive momentos inolvidables junto a tu familia Síguenos: Proyectos Tener casa propia es posible Cumple tu sueño PORQUE TENER CASA PROPIA NO ES EL FIN, SINO EL PRINCIPIO Aplica subsidio del","url":".\/\/"},"nextItem":".\/\/category\/design\/#listItem"},{"@type":"ListItem","@id":".\/\/category\/design\/#listItem","position":2,"item":{"@type":"WebPage","@id":".\/\/category\/design\/","name":"DESIGN","url":".\/\/category\/design\/"},"previousItem":".\/\/#listItem"}]},{"@type":"CollectionPage","@id":".\/\/category\/design\/#collectionpage","url":".\/\/category\/design\/","name":"DESIGN - Villa Olimpica","inLanguage":"es-CO","isPartOf":{"@id":".\/\/#website"},"breadcrumb":{"@id":".\/\/category\/design\/#breadcrumblist"}},{"@type":"Organization","@id":".\/\/#organization","name":"Villa Olimpica","url":".\/\/","logo":{"@type":"ImageObject","url":".\/\/wp-content\/uploads\/2019\/10\/logo_Villa-Olimpica-02.png","@id":".\/\/#organizationLogo","width":942,"height":417},"image":{"@id":".\/\/#organizationLogo"}},{"@type":"WebSite","@id":".\/\/#website","url":".\/\/","name":"Villa Olimpica","inLanguage":"es-CO","publisher":{"@id":".\/\/#organization"}}]}</script>
 		<!-- All in One SEO -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; Feed" href="./../../feed/ ">
 <link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; RSS de los comentarios" href="./../../comments/feed/ ">
+<link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; DESIGN RSS de la categoría" href="./feed/ ">
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.16 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 		<!-- Nota: MonsterInsights no está actualmente configurado en este sitio. El dueño del sitio necesita identificarse usando su cuenta de Google Analytics en el panel de ajustes de MonsterInsights. -->
 					<!-- No UA code set -->
@@ -95,6 +96,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script src="./../../wp-content/themes/phlox/js/solo/modernizr-custom.min.js?ver=2.12.0" id="auxin-modernizr-js"></script>
 <link rel="https://api.w.org/" href="./../../wp-json/ ">
+<link rel="alternate" type="application/json" href="./../../wp-json/wp/v2/categories/12/ ">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../../xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.2">
@@ -493,7 +495,7 @@ font-size:15px;
 </head>
 
 
-<body class="archive date wp-custom-logo elementor-default elementor-kit-101 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd aux-top-sticky aux-page-preload aux-page-animation aux-page-animation-circle _auxels" data-page-animation="true" data-page-animation-type="circle" data-framed="">
+<body class="archive category category-design category-12 wp-custom-logo elementor-default elementor-kit-101 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd aux-top-sticky aux-page-preload aux-page-animation aux-page-animation-circle _auxels" data-page-animation="true" data-page-animation-type="circle" data-framed="">
 
     <div id="pagePreloadProgressbar" class="aux-no-js aux-progressbar-top " style="background-color:rgb(19, 186, 255);"></div>
             <div id="pagePreloadLoading" class="aux-page-loading">
@@ -659,12 +661,12 @@ font-size:15px;
                 
                 <div class="aux-container">
 
-                    <p class="aux-breadcrumbs"><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span><a href="./../../ " title="Inicio">Inicio</a></span></p>
+                    <p class="aux-breadcrumbs"><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span><a href="./../../ " title="Inicio">Inicio</a></span><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span>DESIGN</span></p>
 
                                         <div class="aux-page-title-entry">
                                             <div class="aux-page-title-box">
                                                 <section class="page-title-group">
-                                                                <h1 class="page-title">Archivos mensuales: octubre 2019</h1>
+                                                                <h1 class="page-title">Entradas en la categoría: DESIGN</h1>
                                                             </section>
 
                                                     </div>
@@ -684,465 +686,7 @@ font-size:15px;
                 <div id="primary" class="aux-primary">
                     <div class="content" role="main" data-target="archive">
 
-                                        <article class="post-111 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../building-the-google-photos-web-ui/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/photographer-journalist-working-studion-agency-PWTYFR5-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-54 " alt="demo-attachment-485-photographer-journalist-working-studion-agency-PWTYFR5" srcset="./../../wp-content/uploads/2019/10/photographer-journalist-working-studion-agency-PWTYFR5-500x259.jpg 500w,./../../wp-content/uploads/2019/10/photographer-journalist-working-studion-agency-PWTYFR5-1300x673.jpg 1300w,./../../wp-content/uploads/2019/10/photographer-journalist-working-studion-agency-PWTYFR5-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/photographer-journalist-working-studion-agency-PWTYFR5-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../building-the-google-photos-web-ui/ ">
-                                            Building the Google Photos Web UI                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../building-the-google-photos-web-ui/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="111" class="elementor elementor-111">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-19a4ecc3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19a4ecc3" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17b8e34a" data-id="17b8e34a" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6d3c49c2 elementor-widget elementor-widget-text-editor" data-id="6d3c49c2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../building-the-google-photos-web-ui/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-112 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../furniture-design-contemporary-art/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/female-office-staff-are-summarizing-the-number-in-6NXGYBK-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-53 " alt="demo-attachment-489-female-office-staff-are-summarizing-the-number-in-6NXGYBK" srcset="./../../wp-content/uploads/2019/10/female-office-staff-are-summarizing-the-number-in-6NXGYBK-500x343.jpg 500w,./../../wp-content/uploads/2019/10/female-office-staff-are-summarizing-the-number-in-6NXGYBK-1300x891.jpg 1300w,./../../wp-content/uploads/2019/10/female-office-staff-are-summarizing-the-number-in-6NXGYBK-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/female-office-staff-are-summarizing-the-number-in-6NXGYBK-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../furniture-design-contemporary-art/ ">
-                                            Furniture Design &amp; Contemporary Art                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../furniture-design-contemporary-art/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="112" class="elementor elementor-112">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-1aa04108 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1aa04108" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42ad3da1" data-id="42ad3da1" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-53c3fef9 elementor-widget elementor-widget-text-editor" data-id="53c3fef9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../furniture-design-contemporary-art/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-113 post type-post status-publish format-standard hentry category-uncategorized">
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../furniture-design-contemporary-art-2/ ">
-                                            Furniture Design &amp; Contemporary Art                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../furniture-design-contemporary-art-2/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="113" class="elementor elementor-113">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-455d5c46 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="455d5c46" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-308be869" data-id="308be869" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-58a2400f elementor-widget elementor-widget-text-editor" data-id="58a2400f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../furniture-design-contemporary-art-2/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-114 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../why-you-should-use-ae-templates/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/agency-workers-at-relax-zone-P5BJ6QP-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-61 " alt="demo-attachment-465-agency-workers-at-relax-zone-P5BJ6QP" srcset="./../../wp-content/uploads/2019/10/agency-workers-at-relax-zone-P5BJ6QP-500x337.jpg 500w,./../../wp-content/uploads/2019/10/agency-workers-at-relax-zone-P5BJ6QP-1300x875.jpg 1300w,./../../wp-content/uploads/2019/10/agency-workers-at-relax-zone-P5BJ6QP-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/agency-workers-at-relax-zone-P5BJ6QP-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../why-you-should-use-ae-templates/ ">
-                                            Why You Should Use AE Templates?                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../why-you-should-use-ae-templates/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="114" class="elementor elementor-114">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-449933c3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="449933c3" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1cb5b3eb" data-id="1cb5b3eb" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-212aeecc elementor-widget elementor-widget-text-editor" data-id="212aeecc" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../why-you-should-use-ae-templates/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-115 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../furniture-design-contemporary-art-3/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-59 " alt="demo-attachment-468-beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG" srcset="./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-500x333.jpg 500w,./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1300x867.jpg 1300w,./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../furniture-design-contemporary-art-3/ ">
-                                            Furniture Design &amp; Contemporary Art                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../furniture-design-contemporary-art-3/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="115" class="elementor elementor-115">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-7842f7b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7842f7b5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d4287be" data-id="2d4287be" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-656aa6c6 elementor-widget elementor-widget-text-editor" data-id="656aa6c6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../furniture-design-contemporary-art-3/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-116 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../why-you-should-use-ae-templates-2/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-58 " alt="demo-attachment-469-concentrated-woman-budgeting-at-office-RVS7TEP" srcset="./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-500x336.jpg 500w,./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1300x873.jpg 1300w,./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../why-you-should-use-ae-templates-2/ ">
-                                            Why You Should Use AE Templates?                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../why-you-should-use-ae-templates-2/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="116" class="elementor elementor-116">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-68571c16 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68571c16" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e8ff8ff" data-id="2e8ff8ff" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6852c125 elementor-widget elementor-widget-text-editor" data-id="6852c125" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../why-you-should-use-ae-templates-2/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-120 post type-post status-publish format-standard has-post-thumbnail hentry category-design category-uncategorized">
+                                        <article class="post-120 post type-post status-publish format-standard has-post-thumbnail hentry category-design category-uncategorized">
                                                         <div class="entry-media">
 
                                 <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../furniture-design-contemporary-art-4/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-55 " alt="demo-attachment-472-portrait-of-young-businesswoman-posing-in-office-WEU5FBG" srcset="./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-500x333.jpg 500w,./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1300x867.jpg 1300w,./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
@@ -1163,7 +707,23 @@ font-size:15px;
                                     </div>
                                 </header>
 
-                                                                                                
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../furniture-design-contemporary-art-4/ ">
+                                            <time datetime="2019-10-09T13:31:28+00:00" title="2019-10-09T13:31:28+00:00">octubre 9, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../furniture-design-contemporary-art-4/ #comments" class="meta-comment">No hay comentarios</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en DESIGN" rel="category">DESIGN</a><a href="./../uncategorized/ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
                                                                     <div class="entry-content">
                                         		<div data-elementor-type="wp-post" data-elementor-id="120" class="elementor elementor-120">
 						<div class="elementor-inner">
@@ -1213,160 +773,6 @@ font-size:15px;
                                 <footer class="entry-meta">
                                     <div class="readmore">
                                         <a href="./../../furniture-design-contemporary-art-4/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-121 post type-post status-publish format-standard has-post-thumbnail hentry category-ui-ux category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../building-the-google-photos-web-ui-2/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-56 " alt="demo-attachment-471-picture-of-modern-office-desk-with-devices-HC7V5G8" srcset="./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-500x333.jpg 500w,./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1300x867.jpg 1300w,./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../building-the-google-photos-web-ui-2/ ">
-                                            Building the Google Photos Web UI                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../building-the-google-photos-web-ui-2/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="121" class="elementor elementor-121">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-336f90b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="336f90b5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cfb1674" data-id="cfb1674" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3d22e230 elementor-widget elementor-widget-text-editor" data-id="3d22e230" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../building-the-google-photos-web-ui-2/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
-                                    </div>
-                                </footer>
-
-                            </div>
-
-                        </article>
-                        <article class="post-122 post type-post status-publish format-standard has-post-thumbnail hentry category-motiongraphy category-uncategorized">
-                                                        <div class="entry-media">
-
-                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../why-you-should-use-ae-templates-3/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-57 " alt="demo-attachment-470-office-building-P5TPTWA" srcset="./../../wp-content/uploads/2019/10/office-building-P5TPTWA-500x334.jpg 500w,./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1300x868.jpg 1300w,./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
-                            </div>
-                            
-                            <div class="entry-main">
-
-                                <header class="entry-header">
-                                
-                                    <h3 class="entry-title">
-                                        <a href="./../../why-you-should-use-ae-templates-3/ ">
-                                            Why You Should Use AE Templates?                                        </a>
-                                    </h3>
-                                                                    <div class="entry-format">
-                                        <a href="./../../why-you-should-use-ae-templates-3/ ">
-                                            <div class="post-format format-"> </div>
-                                        </a>
-                                    </div>
-                                </header>
-
-                                                                                                
-                                                                    <div class="entry-content">
-                                        		<div data-elementor-type="wp-post" data-elementor-id="122" class="elementor elementor-122">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-34974ba7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34974ba7" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29189bed" data-id="29189bed" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-52e692cf elementor-widget elementor-widget-text-editor" data-id="52e692cf" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<!-- wp:paragraph -->
-<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>
-<!-- wp:paragraph -->
-<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
-<!-- /wp:paragraph -->
-<p>&nbsp;</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		<div class="clear"></div>                                    </div>
-                                
-                                <footer class="entry-meta">
-                                    <div class="readmore">
-                                        <a href="./../../why-you-should-use-ae-templates-3/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
                                     </div>
                                 </footer>
 
@@ -1429,22 +835,22 @@ font-size:15px;
 </li>
 </ul></section><section id="archives-2" class=" aux-open widget-container widget_archive"><h3 class="widget-title">Archivos</h3>
 			<ul>
-					<li><a href="./ " aria-current="page">octubre 2019</a></li>
+					<li><a href="./../../2019/10/ ">octubre 2019</a></li>
 			</ul>
 
 			</section><section id="categories-2" class=" aux-open widget-container widget_categories"><h3 class="widget-title">Categorías</h3>
 			<ul>
-					<li class="cat-item cat-item-12">
-<a href="./../../category/design/ ">DESIGN</a>
+					<li class="cat-item cat-item-12 current-cat">
+<a aria-current="page" href="./ ">DESIGN</a>
 </li>
 	<li class="cat-item cat-item-14">
-<a href="./../../category/motiongraphy/ ">motiongraphy</a>
+<a href="./../motiongraphy/ ">motiongraphy</a>
 </li>
 	<li class="cat-item cat-item-13">
-<a href="./../../category/ui-ux/ ">UI/UX</a>
+<a href="./../ui-ux/ ">UI/UX</a>
 </li>
 	<li class="cat-item cat-item-1">
-<a href="./../../category/uncategorized/ ">Uncategorized</a>
+<a href="./../uncategorized/ ">Uncategorized</a>
 </li>
 			</ul>
 
@@ -1525,7 +931,7 @@ font-size:15px;
 	<input type="submit" value="Enviar">
 </p>
 </div>
-<label style="display: none !important;">Deja este campo vacío si eres humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1687789226"><input type="hidden" name="_mc4wp_form_id" value="118"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><div class="mc4wp-response"></div>
+<label style="display: none !important;">Deja este campo vacío si eres humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1687789227"><input type="hidden" name="_mc4wp_form_id" value="118"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><div class="mc4wp-response"></div>
 </form>
 <!-- / Mailchimp for WordPress Plugin -->		</div>
 				</div>
@@ -1589,7 +995,7 @@ font-size:15px;
 				</div>
 				<div class="elementor-element elementor-element-aca9145 elementor-widget elementor-widget-aux_icon_list" data-id="aca9145" data-element_type="widget" data-widget_type="aux_icon_list.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-icon-list aux-parent-au7e1bb3a7"><div class="widget-inner"><div class="aux-widget-icon-list-inner"><ul class="aux-icon-list-items aux-direction-vertical"><li class="aux-icon-list-item aux-list-item-has-icon aux-icon-list-item-0e00ccf elementor-repeater-item-0e00ccf"><a class="aux-icon-list-link" href="#"><span class="aux-icon-list-text">Entrada de Villa Olímpica, Frente al Ara, Calle 8#62.</span></a></li></ul></div></div></section><!-- widget-container -->		</div>
+			<section class="widget-container aux-widget-icon-list aux-parent-au818d65ed"><div class="widget-inner"><div class="aux-widget-icon-list-inner"><ul class="aux-icon-list-items aux-direction-vertical"><li class="aux-icon-list-item aux-list-item-has-icon aux-icon-list-item-0e00ccf elementor-repeater-item-0e00ccf"><a class="aux-icon-list-link" href="#"><span class="aux-icon-list-text">Entrada de Villa Olímpica, Frente al Ara, Calle 8#62.</span></a></li></ul></div></div></section><!-- widget-container -->		</div>
 				</div>
 						</div>
 					</div>
@@ -1605,7 +1011,7 @@ font-size:15px;
 				</div>
 				<div class="elementor-element elementor-element-b3c07f4 elementor-widget elementor-widget-aux_icon_list" data-id="b3c07f4" data-element_type="widget" data-widget_type="aux_icon_list.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-icon-list aux-parent-au3dad4c3a"><div class="widget-inner"><div class="aux-widget-icon-list-inner"><ul class="aux-icon-list-items aux-direction-vertical">
+			<section class="widget-container aux-widget-icon-list aux-parent-auce6fd9c4"><div class="widget-inner"><div class="aux-widget-icon-list-inner"><ul class="aux-icon-list-items aux-direction-vertical">
 <li class="aux-icon-list-item aux-list-item-has-icon aux-icon-list-item-55e2130 elementor-repeater-item-55e2130"><a class="aux-icon-list-link" href="https://wa.me/573159280652"><span class="aux-icon-list-icon fab fa-whatsapp"></span><span class="aux-icon-list-text">315 928 0652</span></a></li>
 <li class="aux-icon-list-item aux-list-item-has-icon aux-icon-list-item-5ef9492 elementor-repeater-item-5ef9492"><a class="aux-icon-list-link" href="https://wa.me/573176608833"><span class="aux-icon-list-icon fab fa-whatsapp"></span><span class="aux-icon-list-text">317 6608833</span></a></li>
 </ul></div></div></section><!-- widget-container -->		</div>
@@ -1613,4 +1019,175 @@ font-size:15px;
 						</div>
 					</div>
 		</div>
-						
+								</div>
+					</div>
+		</section>
+							</div>
+				</div>
+		        </div>
+<!-- end of wrapper -->
+    </footer><!-- end footer -->
+
+</div>
+<!--! end of #inner-body -->
+
+    <div class="aux-hidden-blocks">
+
+        <section id="offmenu" class="aux-offcanvas-menu aux-pin-left">
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="offcanvas-header">
+            </div>
+            <div class="offcanvas-content">
+            </div>
+            <div class="offcanvas-footer">
+            </div>
+        </section>
+        <!-- offcanvas section -->
+
+        <section id="offcart" class="aux-offcanvas-menu aux-offcanvas-cart aux-pin-left">
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="offcanvas-header">
+                Cesta de compras            </div>
+            <div class="aux-cart-wrapper aux-elegant-cart aux-offcart-content">
+            </div>
+        </section>
+        <!-- cartcanvas section -->
+
+                <section id="fs-menu-search" class="aux-fs-popup  aux-fs-menu-layout-center aux-indicator">
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="aux-fs-menu">
+                        </div>
+            <div class="aux-fs-search">
+                <div class="aux-search-section ">
+                <div class="aux-search-form ">
+            <form action="https://villaolimpica.fastandstatic.com/" method="get">
+            <div class="aux-search-input-form">
+                            <input type="text" class="aux-search-field" placeholder="Escribe aquí.." name="s" autocomplete="off">
+                                    </div>
+                            <input type="submit" class="aux-black aux-search-submit aux-uppercase" value="Buscar">
+                        </form>
+        </div>
+<!-- end searchform -->
+                </div>
+
+            </div>
+        </section>
+        <!-- fullscreen search and menu -->
+                <section id="fs-search" class="aux-fs-popup aux-search-overlay  has-ajax-form">
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="aux-search-field">
+
+            <div class="aux-search-section aux-404-search">
+                <div class="aux-search-form aux-iconic-search">
+            <form action="https://villaolimpica.fastandstatic.com/" method="get">
+            <div class="aux-search-input-form">
+                            <input type="text" class="aux-search-field" placeholder="Buscar..." name="s" autocomplete="off">
+                                    </div>
+                            <div class="aux-submit-icon-container auxicon-search-4 ">
+                    <input type="submit" class="aux-iconic-search-submit" value="Buscar">
+                </div>
+                        </form>
+        </div>
+<!-- end searchform -->
+                </div>
+
+            </div>
+        </section>
+        <!-- fullscreen search-->
+
+        <div class="aux-scroll-top"></div>
+    </div>
+
+    <div class="aux-goto-top-btn aux-align-btn-right" data-animate-scroll="1"><div class="aux-hover-slide aux-arrow-nav aux-round aux-outline">    <span class="aux-overlay"></span>    <span class="aux-svg-arrow aux-h-small-up"></span>    <span class="aux-hover-arrow aux-svg-arrow aux-h-small-up aux-white"></span>
+</div></div>
+<!-- outputs by wp_footer -->
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><link rel="stylesheet" id="elementor-icons-css" href="./../../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0" media="all">
+<link rel="stylesheet" id="swiper-css" href="./../../wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6" media="all">
+<link rel="stylesheet" id="elementor-post-101-css" href="./../../wp-content/uploads/elementor/css/post-101.css?ver=1684856731" media="all">
+<link rel="stylesheet" id="auxin-elementor-base-css" href="./../../wp-content/themes/phlox/css/other/elementor.css?ver=2.12.0" media="all">
+<link rel="stylesheet" id="auxin-elementor-widgets-css" href="./../../wp-content/plugins/auxin-elements/admin/assets/css/elementor-widgets.css?ver=2.12.0" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="./../../wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./../../wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="./../../wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.13.1" media="all">
+<link rel="stylesheet" id="e-animations-css" href="./../../wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.13.3" media="all">
+<link rel="stylesheet" id="google-fonts-2-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2.2" media="all">
+<script src="./../../wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script src="./../../wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script src="./../../wp-content/themes/phlox/js/plugins.min.js?ver=2.12.0" id="auxin-plugins-js"></script>
+<script src="./../../wp-content/themes/phlox/js/scripts.min.js?ver=2.12.0" id="auxin-scripts-js"></script>
+<script src="./../../wp-content/plugins/auxin-elements/admin/assets/js/elementor/widgets.js?ver=2.12.0" id="auxin-elementor-widgets-js"></script>
+<script id="mediaelement-core-js-before">var mejsL10n = {"language":"es","strings":{"mejs.download-file":"Descargar archivo","mejs.install-flash":"Estás usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la última versión desde https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reproducir","mejs.pause":"Pausa","mejs.time-slider":"Control de tiempo","mejs.time-help-text":"Usa las teclas de dirección izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos.","mejs.live-broadcast":"Transmisión en vivo","mejs.volume-help-text":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","mejs.unmute":"Activar sonido","mejs.mute":"Silenciar","mejs.volume-slider":"Control de volumen","mejs.video-player":"Reproductor de vídeo","mejs.audio-player":"Reproductor de audio","mejs.captions-subtitles":"Pies de foto \/ Subtítulos","mejs.captions-chapters":"Capítulos","mejs.none":"Ninguna","mejs.afrikaans":"Africano","mejs.albanian":"Albano","mejs.arabic":"Árabe","mejs.belarusian":"Bielorruso","mejs.bulgarian":"Búlgaro","mejs.catalan":"Catalán","mejs.chinese":"Chino","mejs.chinese-simplified":"Chino (Simplificado)","mejs.chinese-traditional":"Chino (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Danés","mejs.dutch":"Holandés","mejs.english":"Inglés","mejs.estonian":"Estonio","mejs.filipino":"Filipino","mejs.finnish":"Finés","mejs.french":"Francés","mejs.galician":"Gallego","mejs.german":"Alemán","mejs.greek":"Griego","mejs.haitian-creole":"Creole haitiano","mejs.hebrew":"Hebreo","mejs.hindi":"Indio","mejs.hungarian":"Húngaro","mejs.icelandic":"Islandés","mejs.indonesian":"Indonesio","mejs.irish":"Irlandés","mejs.italian":"Italiano","mejs.japanese":"Japonés","mejs.korean":"Coreano","mejs.latvian":"Letón","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedonio","mejs.malay":"Malayo","mejs.maltese":"Maltés","mejs.norwegian":"Noruego","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugués","mejs.romanian":"Rumano","mejs.russian":"Ruso","mejs.serbian":"Serbio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Español","mejs.swahili":"Swahili","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Thai","mejs.turkish":"Turco","mejs.ukrainian":"Ukraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Galés","mejs.yiddish":"Yiddish"}};</script>
+<script src="./../../wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script src="./../../wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2.2" id="mediaelement-migrate-js"></script>
+<script id="mediaelement-js-extra">var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"auto","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};</script>
+<script src="./../../wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2.2" id="wp-mediaelement-js"></script>
+<script src="./../../wp-content/plugins/auxin-elements/public/assets/js/plugins.min.js?ver=2.12.0" id="auxin-elements-plugins-js"></script>
+<script src="./../../wp-content/plugins/auxin-elements/public/assets/js/scripts.js?ver=2.12.0" id="auxin-elements-scripts-js"></script>
+<script id="auxin-portfolio-portfolio-js-extra">var auxpfo = {"ajax_url":".\/\/wp-admin\/admin-ajax.php","invalid_required":"This is a required field","invalid_postcode":"Zipcode must be digits","invalid_phonenum":"Enter a valid phone number","invalid_emailadd":"Enter a valid email address"};</script>
+<script src="./../../wp-content/plugins/auxin-portfolio/public/assets/js/portfolio.js?ver=2.3.1" id="auxin-portfolio-portfolio-js"></script>
+<script src="./../../wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7" id="swv-js"></script>
+<script id="contact-form-7-js-extra">var wpcf7 = {"api":{"root":".\/\/wp-json\/","namespace":"contact-form-7\/v1"}};</script>
+<script src="./../../wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7" id="contact-form-7-js"></script>
+<script defer src="./../../wp-content/plugins/depicter/resources/scripts/player/depicter.js?ver=1687445082" id="depicter--player-js"></script>
+<script src="./../../wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.8.8" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">var elementskit = {
+			resturl: './/wp-json/elementskit/v1/',
+		}</script>
+<script src="./../../wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.8.8" id="ekit-widget-scripts-js"></script>
+<script src="./../../wp-content/uploads/phlox/custom.js?ver=7.1" id="auxin-custom-js-js"></script>
+<script id="eael-general-js-extra">var localize = {"ajaxurl":".\/\/wp-admin\/admin-ajax.php","nonce":"b1415ef473","i18n":{"added":"Added ","compare":"Comparar","loading":"Cargando..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Envío","fg_mfp_counter_text":"of"},"page_permalink":".\/\/furniture-design-contemporary-art-4\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};</script>
+<script src="./../../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.0" id="eael-general-js"></script>
+<script defer src="./../../wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.5" id="mc4wp-forms-api-js"></script>
+<script src="./../../wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.13.1" id="elementor-pro-webpack-runtime-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.13.3" id="elementor-webpack-runtime-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.13.3" id="elementor-frontend-modules-js"></script>
+<script src="./../../wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="./../../wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script src="./../../wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="./../../wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script src="./../../wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":".\/\/wp-admin\/admin-ajax.php","nonce":"a9ba20ac83","urls":{"assets":".\/\/wp-content\/plugins\/elementor-pro\/assets\/","rest":".\/\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_CO","app_id":""},"lottie":{"defaultAnimationUrl":".\/\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
+<script src="./../../wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.13.1" id="elementor-pro-frontend-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="./../../wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.13.3" id="share-link-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.13.3","is_static":false,"experimentalFeatures":{"a11y_improvements":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":".\/\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"DESIGN - Villa Olimpica","excerpt":""}};</script>
+<script src="./../../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.3" id="elementor-frontend-js"></script>
+<script src="./../../wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.13.1" id="pro-preloaded-elements-handlers-js"></script>
+<script src="./../../wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.8.8" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">var ekit_config = {"ajaxurl":".\/\/wp-admin\/admin-ajax.php","nonce":"20486c3db1"};</script>
+<script src="./../../wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.8.8" id="elementskit-elementor-js"></script>
+<script src="./../../wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.13.3" id="preloaded-modules-js"></script>
+<script src="./../../wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.13.1" id="e-sticky-js"></script>
+<script src="./../../wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
+<script src="./../../wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
+<script id="wpforms-elementor-js-extra">var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};</script>
+<script src="./../../wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.2.1" id="wpforms-elementor-js"></script>
+<!-- end wp_footer -->
+</body>
+</html>

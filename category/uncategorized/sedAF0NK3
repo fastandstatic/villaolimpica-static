@@ -8,18 +8,19 @@
         <meta name="viewport" content="initial-scale=1,user-scalable=no,width=device-width">
 
 <!-- outputs by wp_head -->
-<title>octubre, 2019 - Villa Olimpica</title>
+<title>Uncategorized - Villa Olimpica</title>
 
 		<!-- All in One SEO 4.4.0.1 - aioseo.com -->
 		<meta name="robots" content="max-image-preview:large">
 		<link rel="canonical" href="./ ">
 		<meta name="generator" content="All in One SEO (AIOSEO) 4.4.0.1">
-		<script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":".\/\/2019\/10\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":".\/\/#listItem","position":1,"item":{"@type":"WebPage","@id":".\/\/","name":"Inicio","description":"Proyectos Requisitos Síguenos: Te acompañamos tener casa propia en el proceso de Cumple tu sueño y Separa tu casa con sólo $1 Millón Síguenos: Vive momentos inolvidables junto a tu familia Síguenos: Proyectos Tener casa propia es posible Cumple tu sueño PORQUE TENER CASA PROPIA NO ES EL FIN, SINO EL PRINCIPIO Aplica subsidio del","url":".\/\/"},"nextItem":".\/\/2019\/#listItem"},{"@type":"ListItem","@id":".\/\/2019\/#listItem","position":2,"item":{"@type":"WebPage","@id":".\/\/2019\/","name":"2019","url":".\/\/2019\/"},"nextItem":".\/\/2019\/10\/#listItem","previousItem":".\/\/#listItem"},{"@type":"ListItem","@id":".\/\/2019\/10\/#listItem","position":3,"item":{"@type":"WebPage","@id":".\/\/2019\/10\/","name":"octubre, 2019","url":".\/\/2019\/10\/"},"previousItem":".\/\/2019\/#listItem"}]},{"@type":"CollectionPage","@id":".\/\/2019\/10\/#collectionpage","url":".\/\/2019\/10\/","name":"octubre, 2019 - Villa Olimpica","inLanguage":"es-CO","isPartOf":{"@id":".\/\/#website"},"breadcrumb":{"@id":".\/\/2019\/10\/#breadcrumblist"}},{"@type":"Organization","@id":".\/\/#organization","name":"Villa Olimpica","url":".\/\/","logo":{"@type":"ImageObject","url":".\/\/wp-content\/uploads\/2019\/10\/logo_Villa-Olimpica-02.png","@id":".\/\/#organizationLogo","width":942,"height":417},"image":{"@id":".\/\/#organizationLogo"}},{"@type":"WebSite","@id":".\/\/#website","url":".\/\/","name":"Villa Olimpica","inLanguage":"es-CO","publisher":{"@id":".\/\/#organization"}}]}</script>
+		<script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":".\/\/category\/uncategorized\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":".\/\/#listItem","position":1,"item":{"@type":"WebPage","@id":".\/\/","name":"Inicio","description":"Proyectos Requisitos Síguenos: Te acompañamos tener casa propia en el proceso de Cumple tu sueño y Separa tu casa con sólo $1 Millón Síguenos: Vive momentos inolvidables junto a tu familia Síguenos: Proyectos Tener casa propia es posible Cumple tu sueño PORQUE TENER CASA PROPIA NO ES EL FIN, SINO EL PRINCIPIO Aplica subsidio del","url":".\/\/"},"nextItem":".\/\/category\/uncategorized\/#listItem"},{"@type":"ListItem","@id":".\/\/category\/uncategorized\/#listItem","position":2,"item":{"@type":"WebPage","@id":".\/\/category\/uncategorized\/","name":"Uncategorized","url":".\/\/category\/uncategorized\/"},"previousItem":".\/\/#listItem"}]},{"@type":"CollectionPage","@id":".\/\/category\/uncategorized\/#collectionpage","url":".\/\/category\/uncategorized\/","name":"Uncategorized - Villa Olimpica","inLanguage":"es-CO","isPartOf":{"@id":".\/\/#website"},"breadcrumb":{"@id":".\/\/category\/uncategorized\/#breadcrumblist"}},{"@type":"Organization","@id":".\/\/#organization","name":"Villa Olimpica","url":".\/\/","logo":{"@type":"ImageObject","url":".\/\/wp-content\/uploads\/2019\/10\/logo_Villa-Olimpica-02.png","@id":".\/\/#organizationLogo","width":942,"height":417},"image":{"@id":".\/\/#organizationLogo"}},{"@type":"WebSite","@id":".\/\/#website","url":".\/\/","name":"Villa Olimpica","inLanguage":"es-CO","publisher":{"@id":".\/\/#organization"}}]}</script>
 		<!-- All in One SEO -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; Feed" href="./../../feed/ ">
 <link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; RSS de los comentarios" href="./../../comments/feed/ ">
+<link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; Uncategorized RSS de la categoría" href="./feed/ ">
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.16 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 		<!-- Nota: MonsterInsights no está actualmente configurado en este sitio. El dueño del sitio necesita identificarse usando su cuenta de Google Analytics en el panel de ajustes de MonsterInsights. -->
 					<!-- No UA code set -->
@@ -95,6 +96,7 @@ function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)
 </script>
 <script src="./../../wp-content/themes/phlox/js/solo/modernizr-custom.min.js?ver=2.12.0" id="auxin-modernizr-js"></script>
 <link rel="https://api.w.org/" href="./../../wp-json/ ">
+<link rel="alternate" type="application/json" href="./../../wp-json/wp/v2/categories/1/ ">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../../xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.2">
@@ -493,7 +495,7 @@ font-size:15px;
 </head>
 
 
-<body class="archive date wp-custom-logo elementor-default elementor-kit-101 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd aux-top-sticky aux-page-preload aux-page-animation aux-page-animation-circle _auxels" data-page-animation="true" data-page-animation-type="circle" data-framed="">
+<body class="archive category category-uncategorized category-1 wp-custom-logo elementor-default elementor-kit-101 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd aux-top-sticky aux-page-preload aux-page-animation aux-page-animation-circle _auxels" data-page-animation="true" data-page-animation-type="circle" data-framed="">
 
     <div id="pagePreloadProgressbar" class="aux-no-js aux-progressbar-top " style="background-color:rgb(19, 186, 255);"></div>
             <div id="pagePreloadLoading" class="aux-page-loading">
@@ -659,12 +661,12 @@ font-size:15px;
                 
                 <div class="aux-container">
 
-                    <p class="aux-breadcrumbs"><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span><a href="./../../ " title="Inicio">Inicio</a></span></p>
+                    <p class="aux-breadcrumbs"><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span><a href="./../../ " title="Inicio">Inicio</a></span><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span>Uncategorized</span></p>
 
                                         <div class="aux-page-title-entry">
                                             <div class="aux-page-title-box">
                                                 <section class="page-title-group">
-                                                                <h1 class="page-title">Archivos mensuales: octubre 2019</h1>
+                                                                <h1 class="page-title">Entradas en la categoría: Uncategorized</h1>
                                                             </section>
 
                                                     </div>
@@ -705,7 +707,23 @@ font-size:15px;
                                     </div>
                                 </header>
 
-                                                                                                
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../building-the-google-photos-web-ui/ ">
+                                            <time datetime="2019-10-15T11:58:02+00:00" title="2019-10-15T11:58:02+00:00">octubre 15, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../building-the-google-photos-web-ui/ #comments" class="meta-comment">2 comentarios</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
                                                                     <div class="entry-content">
                                         		<div data-elementor-type="wp-post" data-elementor-id="111" class="elementor elementor-111">
 						<div class="elementor-inner">
@@ -782,7 +800,23 @@ font-size:15px;
                                     </div>
                                 </header>
 
-                                                                                                
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../furniture-design-contemporary-art/ ">
+                                            <time datetime="2019-10-15T09:41:43+00:00" title="2019-10-15T09:41:43+00:00">octubre 15, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../furniture-design-contemporary-art/ #comments" class="meta-comment">Un comentario</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
                                                                     <div class="entry-content">
                                         		<div data-elementor-type="wp-post" data-elementor-id="112" class="elementor elementor-112">
 						<div class="elementor-inner">
@@ -855,7 +889,23 @@ font-size:15px;
                                     </div>
                                 </header>
 
-                                                                                                
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../furniture-design-contemporary-art-2/ ">
+                                            <time datetime="2019-10-15T09:39:39+00:00" title="2019-10-15T09:39:39+00:00">octubre 15, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../furniture-design-contemporary-art-2/ #comments" class="meta-comment">Un comentario</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
                                                                     <div class="entry-content">
                                         		<div data-elementor-type="wp-post" data-elementor-id="113" class="elementor elementor-113">
 						<div class="elementor-inner">
@@ -932,7 +982,23 @@ font-size:15px;
                                     </div>
                                 </header>
 
-                                                                                                
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../why-you-should-use-ae-templates/ ">
+                                            <time datetime="2019-10-15T09:39:01+00:00" title="2019-10-15T09:39:01+00:00">octubre 15, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../why-you-should-use-ae-templates/ #comments" class="meta-comment">Un comentario</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
                                                                     <div class="entry-content">
                                         		<div data-elementor-type="wp-post" data-elementor-id="114" class="elementor elementor-114">
 						<div class="elementor-inner">
@@ -993,4 +1059,585 @@ font-size:15px;
 
                                 <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../furniture-design-contemporary-art-3/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-59 " alt="demo-attachment-468-beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG" srcset="./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-500x333.jpg 500w,./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1300x867.jpg 1300w,./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/beautiful-woman-in-shirt-sitting-on-desk-with-LE96BAG-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
                             </div>
-             
+                            
+                            <div class="entry-main">
+
+                                <header class="entry-header">
+                                
+                                    <h3 class="entry-title">
+                                        <a href="./../../furniture-design-contemporary-art-3/ ">
+                                            Furniture Design &amp; Contemporary Art                                        </a>
+                                    </h3>
+                                                                    <div class="entry-format">
+                                        <a href="./../../furniture-design-contemporary-art-3/ ">
+                                            <div class="post-format format-"> </div>
+                                        </a>
+                                    </div>
+                                </header>
+
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../furniture-design-contemporary-art-3/ ">
+                                            <time datetime="2019-10-15T09:38:34+00:00" title="2019-10-15T09:38:34+00:00">octubre 15, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../furniture-design-contemporary-art-3/ #comments" class="meta-comment">Un comentario</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
+                                                                    <div class="entry-content">
+                                        		<div data-elementor-type="wp-post" data-elementor-id="115" class="elementor elementor-115">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7842f7b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7842f7b5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d4287be" data-id="2d4287be" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-656aa6c6 elementor-widget elementor-widget-text-editor" data-id="656aa6c6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<!-- wp:paragraph -->
+<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<!-- wp:paragraph -->
+<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<div class="clear"></div>                                    </div>
+                                
+                                <footer class="entry-meta">
+                                    <div class="readmore">
+                                        <a href="./../../furniture-design-contemporary-art-3/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
+                                    </div>
+                                </footer>
+
+                            </div>
+
+                        </article>
+                        <article class="post-116 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+                                                        <div class="entry-media">
+
+                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../why-you-should-use-ae-templates-2/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-58 " alt="demo-attachment-469-concentrated-woman-budgeting-at-office-RVS7TEP" srcset="./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-500x336.jpg 500w,./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1300x873.jpg 1300w,./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/concentrated-woman-budgeting-at-office-RVS7TEP-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
+                            </div>
+                            
+                            <div class="entry-main">
+
+                                <header class="entry-header">
+                                
+                                    <h3 class="entry-title">
+                                        <a href="./../../why-you-should-use-ae-templates-2/ ">
+                                            Why You Should Use AE Templates?                                        </a>
+                                    </h3>
+                                                                    <div class="entry-format">
+                                        <a href="./../../why-you-should-use-ae-templates-2/ ">
+                                            <div class="post-format format-"> </div>
+                                        </a>
+                                    </div>
+                                </header>
+
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../why-you-should-use-ae-templates-2/ ">
+                                            <time datetime="2019-10-15T09:37:55+00:00" title="2019-10-15T09:37:55+00:00">octubre 15, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../why-you-should-use-ae-templates-2/ #comments" class="meta-comment">Un comentario</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
+                                                                    <div class="entry-content">
+                                        		<div data-elementor-type="wp-post" data-elementor-id="116" class="elementor elementor-116">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-68571c16 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68571c16" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e8ff8ff" data-id="2e8ff8ff" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6852c125 elementor-widget elementor-widget-text-editor" data-id="6852c125" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<!-- wp:paragraph -->
+<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<!-- wp:paragraph -->
+<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<div class="clear"></div>                                    </div>
+                                
+                                <footer class="entry-meta">
+                                    <div class="readmore">
+                                        <a href="./../../why-you-should-use-ae-templates-2/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
+                                    </div>
+                                </footer>
+
+                            </div>
+
+                        </article>
+                        <article class="post-120 post type-post status-publish format-standard has-post-thumbnail hentry category-design category-uncategorized">
+                                                        <div class="entry-media">
+
+                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../furniture-design-contemporary-art-4/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-55 " alt="demo-attachment-472-portrait-of-young-businesswoman-posing-in-office-WEU5FBG" srcset="./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-500x333.jpg 500w,./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1300x867.jpg 1300w,./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/portrait-of-young-businesswoman-posing-in-office-WEU5FBG-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
+                            </div>
+                            
+                            <div class="entry-main">
+
+                                <header class="entry-header">
+                                
+                                    <h3 class="entry-title">
+                                        <a href="./../../furniture-design-contemporary-art-4/ ">
+                                            Furniture Design &amp; Contemporary Art                                        </a>
+                                    </h3>
+                                                                    <div class="entry-format">
+                                        <a href="./../../furniture-design-contemporary-art-4/ ">
+                                            <div class="post-format format-"> </div>
+                                        </a>
+                                    </div>
+                                </header>
+
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../furniture-design-contemporary-art-4/ ">
+                                            <time datetime="2019-10-09T13:31:28+00:00" title="2019-10-09T13:31:28+00:00">octubre 9, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../furniture-design-contemporary-art-4/ #comments" class="meta-comment">No hay comentarios</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./../design/ " title="Ver todas las entradas en DESIGN" rel="category">DESIGN</a><a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
+                                                                    <div class="entry-content">
+                                        		<div data-elementor-type="wp-post" data-elementor-id="120" class="elementor elementor-120">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-60f832a9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60f832a9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a9fcb71" data-id="2a9fcb71" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-70e102a7 elementor-widget elementor-widget-text-editor" data-id="70e102a7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<!-- wp:paragraph -->
+<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<!-- wp:paragraph -->
+<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<div class="clear"></div>                                    </div>
+                                
+                                <footer class="entry-meta">
+                                    <div class="readmore">
+                                        <a href="./../../furniture-design-contemporary-art-4/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
+                                    </div>
+                                </footer>
+
+                            </div>
+
+                        </article>
+                        <article class="post-121 post type-post status-publish format-standard has-post-thumbnail hentry category-ui-ux category-uncategorized">
+                                                        <div class="entry-media">
+
+                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../building-the-google-photos-web-ui-2/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-56 " alt="demo-attachment-471-picture-of-modern-office-desk-with-devices-HC7V5G8" srcset="./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-500x333.jpg 500w,./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1300x867.jpg 1300w,./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/picture-of-modern-office-desk-with-devices-HC7V5G8-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
+                            </div>
+                            
+                            <div class="entry-main">
+
+                                <header class="entry-header">
+                                
+                                    <h3 class="entry-title">
+                                        <a href="./../../building-the-google-photos-web-ui-2/ ">
+                                            Building the Google Photos Web UI                                        </a>
+                                    </h3>
+                                                                    <div class="entry-format">
+                                        <a href="./../../building-the-google-photos-web-ui-2/ ">
+                                            <div class="post-format format-"> </div>
+                                        </a>
+                                    </div>
+                                </header>
+
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../building-the-google-photos-web-ui-2/ ">
+                                            <time datetime="2019-10-09T13:31:06+00:00" title="2019-10-09T13:31:06+00:00">octubre 9, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../building-the-google-photos-web-ui-2/ #comments" class="meta-comment">No hay comentarios</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./../ui-ux/ " title="Ver todas las entradas en UI/UX" rel="category">UI/UX</a><a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
+                                                                    <div class="entry-content">
+                                        		<div data-elementor-type="wp-post" data-elementor-id="121" class="elementor elementor-121">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-336f90b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="336f90b5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cfb1674" data-id="cfb1674" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3d22e230 elementor-widget elementor-widget-text-editor" data-id="3d22e230" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<!-- wp:paragraph -->
+<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<!-- wp:paragraph -->
+<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<div class="clear"></div>                                    </div>
+                                
+                                <footer class="entry-meta">
+                                    <div class="readmore">
+                                        <a href="./../../building-the-google-photos-web-ui-2/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
+                                    </div>
+                                </footer>
+
+                            </div>
+
+                        </article>
+                        <article class="post-122 post type-post status-publish format-standard has-post-thumbnail hentry category-motiongraphy category-uncategorized">
+                                                        <div class="entry-media">
+
+                                <div class="aux-media-frame aux-media-image aux-image-mask"><a href="./../../why-you-should-use-ae-templates-3/ "><img width="1300" height="731" src="./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1300x731.jpg" class="aux-attachment aux-featured-image attachment-1300x731.25 aux-attachment-id-57 " alt="demo-attachment-470-office-building-P5TPTWA" srcset="./../../wp-content/uploads/2019/10/office-building-P5TPTWA-500x334.jpg 500w,./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1300x868.jpg 1300w,./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1300x731.jpg 1300w,./../../wp-content/uploads/2019/10/office-building-P5TPTWA-1590x894.jpg 1590w" data-ratio="1.78" data-original-w="1600" sizes="(max-width:1025px) 80vw,1300px"></a></div>
+                            </div>
+                            
+                            <div class="entry-main">
+
+                                <header class="entry-header">
+                                
+                                    <h3 class="entry-title">
+                                        <a href="./../../why-you-should-use-ae-templates-3/ ">
+                                            Why You Should Use AE Templates?                                        </a>
+                                    </h3>
+                                                                    <div class="entry-format">
+                                        <a href="./../../why-you-should-use-ae-templates-3/ ">
+                                            <div class="post-format format-"> </div>
+                                        </a>
+                                    </div>
+                                </header>
+
+                                                                                                <div class="entry-info">
+                                                                        <div class="entry-date">
+                                        <a href="./../../why-you-should-use-ae-templates-3/ ">
+                                            <time datetime="2019-10-09T13:30:36+00:00" title="2019-10-09T13:30:36+00:00">octubre 9, 2019</time>
+                                        </a>
+                                    </div>
+                                                                                                            <span class="entry-meta-sep meta-sep meta-author">por</span>
+                                    <span class="author vcard meta-author">
+                                        <a href="./../../author/villaolimpica/ " rel="author" title="Ver todas las entradas de villaolimpica">
+                                            villaolimpica                                        </a>
+                                    </span>
+                                                                                                            <span class="meta-sep">con</span>
+                                    <a href="./../../why-you-should-use-ae-templates-3/ #comments" class="meta-comment">No hay comentarios</a>
+                                                                                                            <span class="entry-tax">
+                                                                                <a href="./../motiongraphy/ " title="Ver todas las entradas en motiongraphy" rel="category">motiongraphy</a><a href="./ " title="Ver todas las entradas en Uncategorized" rel="category">Uncategorized</a>                                    </span>
+                                                                                                        </div>
+                                                                
+                                                                    <div class="entry-content">
+                                        		<div data-elementor-type="wp-post" data-elementor-id="122" class="elementor elementor-122">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-34974ba7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34974ba7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29189bed" data-id="29189bed" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-52e692cf elementor-widget elementor-widget-text-editor" data-id="52e692cf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<!-- wp:paragraph -->
+<p>Mauris vehicula efficitur mi, vel sollicitudin lectus vulputate a. Phasellus vulputate nunc libero, eu faucibus sem bibendum in. Aenean mollis quis diam sed cursus. Integer tristique rhoncus sapien vitae semper. Mauris euismod venenatis sem vitae congue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis ullamcorper diam eget porttitor sagittis. Mauris porttitor magna in interdum vestibulum. Integer nec cursus neque. Mauris eu nibh rhoncus, laoreet sapien id, tincidunt turpis. Etiam mattis dapibus laoreet. Vestibulum bibendum tortor vel felis commodo ultrices. In in elit vitae eros suscipit commodo ut tristique erat. Vestibulum vehicula turpis id quam euismod vulputate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque lacinia, purus non porta malesuada, lectus tortor iaculis odio, nec laoreet massa dui sit amet elit. Sed tempus bibendum nisi eget vehicula. Maecenas quis leo eu augue faucibus aliquam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quisque sed pharetra odio, eu consectetur dui. Etiam scelerisque sagittis nunc, a scelerisque lorem. Fusce commodo tempus diam sed hendrerit. In ullamcorper odio eu pretium consectetur.</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>
+<!-- wp:paragraph -->
+<p>14 Tottenham Court Road, London, England<br>(102) 3456 789 / info@joshwilliam.com</p>
+<!-- /wp:paragraph -->
+<p>&nbsp;</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<div class="clear"></div>                                    </div>
+                                
+                                <footer class="entry-meta">
+                                    <div class="readmore">
+                                        <a href="./../../why-you-should-use-ae-templates-3/ " class="aux-read-more aux-outline aux-large"><span class="aux-read-more-text">Read More</span></a>
+                                    </div>
+                                </footer>
+
+                            </div>
+
+                        </article>
+
+                    </div>
+<!-- end content -->
+                </div>
+<!-- end primary -->
+
+
+                
+            <aside class="aux-sidebar aux-sidebar-primary">
+                <div class="sidebar-inner">
+                    <div class="sidebar-content">
+<div class="aux-widget-area">
+<section id="search-2" class=" aux-open widget-container widget_search">  <form method="get" id="searchform" class="searchform" action="https://villaolimpica.fastandstatic.com/">
+    <input type="text" class="field" name="s" id="s" placeholder="Buscar aquí" value="">
+    <input type="submit" class="submit" name="submit" id="searchsubmit" value="Buscar">
+  </form>
+</section>
+		<section id="recent-posts-2" class=" aux-open widget-container widget_recent_entries">
+		<h3 class="widget-title">Entradas recientes</h3>
+		<ul>
+											<li>
+					<a href="./../../building-the-google-photos-web-ui/ ">Building the Google Photos Web UI</a>
+									</li>
+											<li>
+					<a href="./../../furniture-design-contemporary-art/ ">Furniture Design &amp; Contemporary Art</a>
+									</li>
+											<li>
+					<a href="./../../furniture-design-contemporary-art-2/ ">Furniture Design &amp; Contemporary Art</a>
+									</li>
+											<li>
+					<a href="./../../why-you-should-use-ae-templates/ ">Why You Should Use AE Templates?</a>
+									</li>
+											<li>
+					<a href="./../../furniture-design-contemporary-art-3/ ">Furniture Design &amp; Contemporary Art</a>
+									</li>
+					</ul>
+
+		</section><section id="recent-comments-2" class=" aux-open widget-container widget_recent_comments"><h3 class="widget-title">Comentarios recientes</h3>
+<ul id="recentcomments">
+<li class="recentcomments">
+<span class="comment-author-link">Paul</span> en <a href="./../../why-you-should-use-ae-templates-2/ #comment-8">Why You Should Use AE Templates?</a>
+</li>
+<li class="recentcomments">
+<span class="comment-author-link">Paul</span> en <a href="./../../furniture-design-contemporary-art-3/ #comment-7">Furniture Design &amp; Contemporary Art</a>
+</li>
+<li class="recentcomments">
+<span class="comment-author-link">Paul</span> en <a href="./../../why-you-should-use-ae-templates/ #comment-6">Why You Should Use AE Templates?</a>
+</li>
+<li class="recentcomments">
+<span class="comment-author-link">Paul</span> en <a href="./../../furniture-design-contemporary-art-2/ #comment-5">Furniture Design &amp; Contemporary Art</a>
+</li>
+<li class="recentcomments">
+<span class="comment-author-link">Paul</span> en <a href="./../../furniture-design-contemporary-art/ #comment-4">Furniture Design &amp; Contemporary Art</a>
+</li>
+</ul></section><section id="archives-2" class=" aux-open widget-container widget_archive"><h3 class="widget-title">Archivos</h3>
+			<ul>
+					<li><a href="./../../2019/10/ ">octubre 2019</a></li>
+			</ul>
+
+			</section><section id="categories-2" class=" aux-open widget-container widget_categories"><h3 class="widget-title">Categorías</h3>
+			<ul>
+					<li class="cat-item cat-item-12">
+<a href="./../design/ ">DESIGN</a>
+</li>
+	<li class="cat-item cat-item-14">
+<a href="./../motiongraphy/ ">motiongraphy</a>
+</li>
+	<li class="cat-item cat-item-13">
+<a href="./../ui-ux/ ">UI/UX</a>
+</li>
+	<li class="cat-item cat-item-1 current-cat">
+<a aria-current="page" href="./ ">Uncategorized</a>
+</li>
+			</ul>
+
+			</section><section id="meta-2" class=" aux-open widget-container widget_meta"><h3 class="widget-title">Meta</h3>
+		<ul>
+						<li><a href="./../../wp-login.php">Acceder</a></li>
+			<li><a href="./../../feed/ ">Feed de entradas</a></li>
+			<li><a href="./../../comments/feed/ ">Feed de comentarios</a></li>
+
+			<li><a href="https://es-co.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</section>
+</div>                    </div>
+<!-- end sidebar-content -->
+                </div>
+<!-- end sidebar-inner -->
+            </aside><!-- end primary siderbar -->
+
+            </div>
+<!-- end container -->
+        </div>
+<!-- end wrapper -->
+    </main><!-- end main -->
+
+    <footer class="aux-elementor-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+        <div class="aux-wrapper">
+        		<div data-elementor-type="footer" data-elementor-id="119" class="elementor elementor-119">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-9277e2a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9277e2a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="aux-parallax-section elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-170c8d8" data-id="170c8d8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ad7ea84 elementor-widget elementor-widget-aux_modern_heading" data-id="ad7ea84" data-element_type="widget" data-widget_type="aux_modern_heading.default">
+				<div class="elementor-widget-container">
+			<section class="aux-widget-modern-heading">
+            <div class="aux-widget-inner">
+<h2 class="aux-modern-heading-primary"></h2>
+<h5 class="aux-modern-heading-secondary">
+<span class="aux-head-before">Vive la vida que mereces.</span><span class="aux-head-highlight">¡Contactanos hoy!</span>
+</h5>
+</div>
+        </section>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-50 elementor-top-column elementor-

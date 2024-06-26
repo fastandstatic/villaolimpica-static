@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comentarios en: Why You Should Use AE Templates?	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-ae-templates-2</link>
+	<atom:link href="/why-you-should-use-ae-templates-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/why-you-should-use-ae-templates-2/</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Oct 2019 11:16:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>
 		Por: Paul		</title>
-		<link>./../index.html#comment-8</link>
+		<link>/why-you-should-use-ae-templates-2/#comment-8</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:35 +0000</pubDate>

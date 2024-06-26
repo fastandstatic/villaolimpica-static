@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comentarios en: Furniture Design &#038; Contemporary Art	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=furniture-design-contemporary-art-2</link>
+	<atom:link href="/furniture-design-contemporary-art-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/furniture-design-contemporary-art-2/</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Oct 2019 11:16:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>
 		Por: Paul		</title>
-		<link>./../index.html#comment-5</link>
+		<link>/furniture-design-contemporary-art-2/#comment-5</link>
 
 		<dc:creator><![CDATA[Paul]]></dc:creator>
 		<pubDate>Sun, 20 Oct 2019 11:16:20 +0000</pubDate>

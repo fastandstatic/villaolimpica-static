@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dinámicamente generated on junio 26, 2023 at 2:05 pm by All in One SEO v4.4.0.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dinámicamente generated on junio 21, 2024 at 10:06 pm by All in One SEO v4.6.5 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="./default.xsl?sitemap=page"?>
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=page"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
@@ -9,36 +9,9 @@
 >
 	<url>
 		<loc><![CDATA[./]]>/index.html</loc>
-		<lastmod><![CDATA[2023-05-19T16:32:29+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-05-02T14:11:02+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/08/casa-3.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/07/Mask_Group_4-275.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/07/Clip-277.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/07/twitter-logo-299.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/07/youtube-play-button-300.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/07/Ellipse-1-278.svg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/09/house-key2.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/07/behance-logo-298.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/09/carefree-family-having-1.jpg]]></image:loc>
-		</image:image>
 		<image:image>
 			<image:loc><![CDATA[./wp-content/uploads/2022/08/charity-seperator-shape.png]]></image:loc>
 		</image:image>
@@ -61,10 +34,10 @@
 			<image:loc><![CDATA[./wp-content/uploads/2022/08/linea-circulo-12.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/08/alcoba-2-villas.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-9.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/08/alcobas-villas.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-4.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[./wp-content/uploads/2022/08/sala-villas.jpg]]></image:loc>
@@ -73,7 +46,10 @@
 			<image:loc><![CDATA[./wp-content/uploads/2022/08/sala-villas2.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2022/08/casa-2.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-14.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-6.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[./wp-content/uploads/2022/08/pago-facil.jpg]]></image:loc>
@@ -87,9 +63,90 @@
 	</url>
 	<url>
 		<loc><![CDATA[./contact/]]>/index.html</loc>
-		<lastmod><![CDATA[2023-06-22T18:50:47+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-06-21T22:05:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[./villas-de-salamanca-etapa-3/]]>/index.html</loc>
+		<lastmod><![CDATA[2024-04-30T22:35:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-10.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-14.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-6.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-9.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Planos-_A9-PISO-1-1-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Planos-_A9-PISO-2-1-rotated.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Planos-_A5-8-PISO-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Planos-_A5-8-PISO-2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Planos-_A3-4-PISO-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Planos-_A3-4-PISO-2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-3.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-8.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-7.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-6.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-5.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-4.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-12.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-3.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERSP-INT-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/PERS-EXT-1.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Enscape_2024-01-11-08-16-00.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Enscape_2024-01-11-08-12-07.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/Enscape_2024-01-11-08-10-43.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/02/cta-villa-ET3_1.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[./villa-catalina/]]>/index.html</loc>
